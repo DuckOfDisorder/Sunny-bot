@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Each <command> becomes /name @user
+    name        : slash command name (lowercase, 1-32 chars)
+    verb        : optional; word used in the reply ("@a hugged @b"); defaults to name
+    description : optional; text shown in Discord's command picker
+    solo        : optional; if true, only invoker is relevant
+  Links should be image/GIF URLs to show in the embed.
+-->
+<commands>
+  <command name="hug" verb="hugged" description="Give someone a hug">
+    <link>https://static2.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/fb/9d/HuD9217ljIfiCdDt8.gif</link>
+    <link>https://static2.klipy.com/ii/d7aec6f6f171607374b2065c836f92f4/e3/5b/YPsDiEGv.gif</link>
+  </command>
+
+  <command name="bonk" verb="bonked" description="Bonk ur head into someone">
+    <link>https://media1.tenor.com/m/LuLzST4kJbgAAAAd/cat-angry.gif</link>
+  </command>
+
+  <command name="boop" verb="boops" description="Boop someone's nose">
+    <link>https://media1.tenor.com/m/1Ssp5wMkhfkAAAAd/boop-cat-boop.gif</link>
+  </command>
+
+  <!-- Solo commands: no @user, reply is "@invoker <verb>" -->
+
+  <command name="cry" verb="is crying" description="Big Sad :(" solo="true">
+    <link>https://media1.tenor.com/m/hRwOkfa1JpsAAAAd/renako-amaori-crying.gif</link>
+  </command>
+</commands>
