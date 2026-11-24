@@ -22,6 +22,7 @@
     <link>https://c.tenor.com/98NCkRz6FUUAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/TShlH43KfcUAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/IQP3PfkchuoAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/1amwwLK6gxgAAAAd/tenor.gif</link>
   </command>
 
   <command name="boop" verb="boops" description="Boop someone">
@@ -30,6 +31,10 @@
     <link>https://c.tenor.com/LrVkDTqc4o0AAAAd/tenor.gif</link>
   </command>
 
+  <command name="eat" verb="eats" description="Eat someone">
+    <link>https://c.tenor.com/2hApBfTXIZUAAAAd/tenor.gif</link>
+  </command>
+  
   <command name="handhold" verb="handholds" description="Hold someone's hand">
     <link>https://c.tenor.com/rSiG1IW6IqwAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/rOfLUKALeIcAAAAd/tenor.gif</link>
@@ -51,6 +56,7 @@
     <link>https://c.tenor.com/XCxsRl0_MOkAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/NnDI7TW8D24AAAAd/tenor.gif</link>
     <link>https://c.tenor.com/dCnAevO9rkUAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/nWrDVfruys8AAAAd/tenor.gif</link>
   </command>
 
   <command name="kabedon" verb="kabedons" description="Push someone to a wall">
@@ -75,6 +81,9 @@
     <link>https://c.tenor.com/djiRp1Hq7ugAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/iSpCrrTfMRcAAAAC/tenor.gif</link>
     <link>https://c.tenor.com/WHyz7RccY3UAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/66JqTfWbx_wAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/74hc2B7whloAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/eGc66JyGi3UAAAAd/tenor.gif</link>
   </command>
   
   <command name="love" verb="loves" description="Send your love to someone">
@@ -119,6 +128,8 @@
     <link>https://c.tenor.com/OaSQqWO4-YUAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/9TN_Wmmvh7sAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/kJgTfbVqA18AAAAC/tenor.gif</link>
+    <link>https://c.tenor.com/z2dhpZuiMzMAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/aowbGk2PQLAAAAAd/tenor.gif</link>
   </command>
   
   <command name="spin" verb="spins" description="Spin someone">
@@ -126,6 +137,7 @@
     <link>https://c.tenor.com/XfOolCz7dz8AAAAd/tenor.gif</link>
     <link>https://c.tenor.com/ToIYYj1O2_gAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/jSR-1-c0D2kAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/Qh70_Pyw88EAAAAd/tenor.gif</link>
   </command>
   
   <!-- Solo commands: no @user, reply is "@invoker <verb>" -->
