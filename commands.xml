@@ -14,16 +14,16 @@
   </command>
 
   <command name="bonk" verb="bonked" description="Bonk ur head into someone">
-    <link>https://media1.tenor.com/m/LuLzST4kJbgAAAAd/cat-angry.gif</link>
+    <link>https://c.tenor.com/LuLzST4kJbgAAAAd/tenor.gif</link>
   </command>
 
   <command name="boop" verb="boops" description="Boop someone's nose">
-    <link>https://media1.tenor.com/m/1Ssp5wMkhfkAAAAd/boop-cat-boop.gif</link>
+    <link>https://c.tenor.com/1Ssp5wMkhfkAAAAd/tenor.gif</link>
   </command>
 
   <!-- Solo commands: no @user, reply is "@invoker <verb>" -->
 
   <command name="cry" verb="is crying" description="Big Sad :(" solo="true">
-    <link>https://media1.tenor.com/m/hRwOkfa1JpsAAAAd/renako-amaori-crying.gif</link>
+    <link>https://c.tenor.com/hRwOkfa1JpsAAAAd/tenor.gif</link>
   </command>
 </commands>
