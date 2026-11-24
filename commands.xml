@@ -8,22 +8,137 @@
   Links should be image/GIF URLs to show in the embed.
 -->
 <commands>
-  <command name="hug" verb="hugged" description="Give someone a hug">
+
+  <command name="beg" verb="begs" description="begs someone">
+    <link>https://static2.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/67/f2/mOuoXpLa8HdhfVe.gif</link>
+    <link>https://c.tenor.com/vg62jPkgAhoAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/rt-b5wrDLisAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/4q5OwnFZJdEAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/c5NREl_bty0AAAAd/tenor.gif</link>
+  </command>
+
+  <command name="bonk" verb="bonks" description="Bonk someone">
+    <link>https://c.tenor.com/QV20zGbbj1cAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/98NCkRz6FUUAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/TShlH43KfcUAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/IQP3PfkchuoAAAAd/tenor.gif</link>
+  </command>
+
+  <command name="boop" verb="boops" description="Boop someone">
+    <link>https://c.tenor.com/_Kvpw6_qklMAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/RmQElPHERIoAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/LrVkDTqc4o0AAAAd/tenor.gif</link>
+  </command>
+
+  <command name="handhold" verb="handholds" description="Hold someone's hand">
+    <link>https://c.tenor.com/rSiG1IW6IqwAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/rOfLUKALeIcAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/ElOPOxoB4p8AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/btZ6Bejqz1cAAAAd/tenor.gif</link>
+  </command>
+  
+  <command name="hug" verb="hugs" description="Give someone a hug">
     <link>https://static2.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/fb/9d/HuD9217ljIfiCdDt8.gif</link>
+    <link>https://c.tenor.com/GQkCTYPxzMMAAAAd/tenor.gif</link>
+    <link>https://static2.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/0c/12/QwyiLEPIoSTfsdOkAP.gif</link>
+    <link>https://c.tenor.com/3nx60qnRUPsAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/CR7ZmJCdQhUAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/4RyTGOMUj4EAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/9CwsjFBHgA0AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/Qe6rYPM-FMkAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/dbsWq3HuR5QAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/-_m3RsV-86AAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/XCxsRl0_MOkAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/NnDI7TW8D24AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/dCnAevO9rkUAAAAd/tenor.gif</link>
+  </command>
+
+  <command name="kabedon" verb="kabedons" description="Push someone to a wall">
+    <link>https://c.tenor.com/-NeEKVOv8lYAAAAC/tenor.gif</link>
+    <link>https://c.tenor.com/iTlr4U1-bGAAAAAd/tenor.gif</link>
+  </command>
+  
+  <command name="kiss" verb="kisses" description="Kiss someone">
+    <link>https://c.tenor.com/RayxkcrqlHgAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/F2pJSS3ZvjQAAAAC/tenor.gif</link>
+    <link>https://c.tenor.com/cFVS8ZE6ywQAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/az5R9tUdTKQAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/zeN_NsLss_MAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/d79QIcumaZAAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/-Bh5gowRVFMAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/89-jqF13u2oAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/k-d6_WD_6fAAAAAC/tenor.gif</link>
+    <link>https://c.tenor.com/kRMTd3OW_n0AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/iuAtLtpRcgwAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/WxITy4XYFVUAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/UOQ1XQfgd9AAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/djiRp1Hq7ugAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/iSpCrrTfMRcAAAAC/tenor.gif</link>
+    <link>https://c.tenor.com/WHyz7RccY3UAAAAd/tenor.gif</link>
+  </command>
+  
+  <command name="love" verb="loves" description="Send your love to someone">
+    <link>https://c.tenor.com/O3eSdrzvqPoAAAAC/tenor.gif</link>
+    <link>https://c.tenor.com/6LSc1y8p4nEAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/z39ce402YDEAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/6GSNC6NRvZEAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/UA3qwX6PuLMAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/eWS6uNcJ94UAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/6l_1S34ErxMAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/mGWbMqFcz_MAAAAd/tenor.gif</link>
+  </command>
+  
+  <command name="pat" verb="pats" description="Pat someone's head">
+    <link>https://c.tenor.com/nQEz9jJdd9kAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/lkiKaeLEuEUAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/rdU98R9r0ygAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/QOneZjAXVn0AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/lBbNsjze_DIAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/a6Vn1Cj_MRUAAAAC/tenor.gif</link>
+    <link>https://c.tenor.com/OUSrLXimAq8AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/kC13WbDDsZwAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/mBdFb9ypFS8AAAAd/tenor.gif</link>
+  </command>
+
+  <command name="propose" verb="proposes to" description="Propose to someone">
+    <link>https://c.tenor.com/CRLkAhZf-aAAAAAC/tenor.gif</link>
+  </command>
+  
+  <command name="reject" verb="rejects" description="Reject someone">
+    <link>https://c.tenor.com/Apjr_gLS3AcAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/vuRj1RGeA0UAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/ywibhYBNKucAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/xQMMbRa6uJcAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/TbTZri9HDNUAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/qW5vxtAg--cAAAAd/tenor.gif</link>
+  </command>
+  
+  <command name="snuggle" verb="snuggles" description="Snuggle someone">
     <link>https://static2.klipy.com/ii/d7aec6f6f171607374b2065c836f92f4/e3/5b/YPsDiEGv.gif</link>
+    <link>https://c.tenor.com/XfOolCz7dz8AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/OaSQqWO4-YUAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/9TN_Wmmvh7sAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/kJgTfbVqA18AAAAC/tenor.gif</link>
   </command>
-
-  <command name="bonk" verb="bonked" description="Bonk ur head into someone">
-    <link>https://c.tenor.com/LuLzST4kJbgAAAAd/tenor.gif</link>
+  
+  <command name="spin" verb="spins" description="Spin someone">
+    <link>https://c.tenor.com/gI3zzYHcnDsAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/XfOolCz7dz8AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/ToIYYj1O2_gAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/jSR-1-c0D2kAAAAd/tenor.gif</link>
   </command>
-
-  <command name="boop" verb="boops" description="Boop someone's nose">
-    <link>https://c.tenor.com/1Ssp5wMkhfkAAAAd/tenor.gif</link>
-  </command>
-
+  
   <!-- Solo commands: no @user, reply is "@invoker <verb>" -->
 
   <command name="cry" verb="is crying" description="Big Sad :(" solo="true">
     <link>https://c.tenor.com/hRwOkfa1JpsAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/cgo8C723_gwAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/PhUSf6rVeyAAAAAd/tenor.gif</link>
   </command>
+
+  <command name="sleep" verb="is sleeping. Everyone hush!" description="eepy (_ _ ).zZ" solo="true">
+    <link>https://c.tenor.com/qVf6M_Ge26gAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/jfwf7xpv5p0AAAAd/tenor.gif</link>
+  </command>
+  
 </commands>
