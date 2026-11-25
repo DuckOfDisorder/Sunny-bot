@@ -39,6 +39,7 @@
     <link>https://c.tenor.com/NhkOdARSshIAAAAd/tenor.gif</link>
     <link>https://media.tenor.com/GnafzH7LqWsAAAAj/rina-bonk-love-live.gif</link>
     <link>https://c.tenor.com/IQP3PfkchuoAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/qmodpuI0UukAAAAd/tenor.gif</link>
   </command>
 
   <command name="boop" verb="boops" description="Boop someone">
@@ -138,6 +139,7 @@
     <link>https://c.tenor.com/mGWbMqFcz_MAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/3Rkmw71eCbwAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/G2d6Fi9Qe0IAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/P31s6IKb0nkAAAAd/tenor.gif</link>
   </command>
   
   <command name="pat" verb="pats" description="Pat someone's head">
@@ -167,6 +169,7 @@
     <link>https://c.tenor.com/TbTZri9HDNUAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/qW5vxtAg--cAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/2sj28yUD3QEAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/GbZcCBoIWRIAAAAd/tenor.gif</link>
   </command>
   
   <command name="snuggle" verb="snuggles" description="Snuggle someone">
@@ -188,6 +191,7 @@
     <link>https://c.tenor.com/Qh70_Pyw88EAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/Ygjy4aXraq4AAAAd/tenor.gif</link>
     <link>https://c.tenor.com/GzXPumpXq-8AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/ZtXMsWY80ZgAAAAd/tenor.gif</link>
   </command>
   
   <command name="squish" verb="squishes" description="Squish someone">
@@ -202,6 +206,18 @@
     <link>https://c.tenor.com/vY546VjQvgEAAAAd/tenor.gif</link>
   </command>
   
+  <command name="throw" verb="throws" description="Throw someone">
+    <link>https://c.tenor.com/8ICs2gFRXaAAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/TA4qfKqcvoEAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/ACdQRrXdv2sAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/t4T2DpGwHSQAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/tINVq0jcKl0AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/qCTnY5ry2gEAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/eINJkTkMB-kAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/sIBmF8vS9xgAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/LTtlQgsvSsUAAAAd/tenor.gif</link>
+  </command>
+  
   <!-- Solo commands: no @user, reply is "@invoker <verb>" -->
 
   <command name="cry" verb="is crying" description="Big Sad :(" solo="true">
@@ -209,11 +225,31 @@
     <link>https://c.tenor.com/cgo8C723_gwAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/PhUSf6rVeyAAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/Ntu77NadGWYAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/hUV3lOmUT64AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/P8gp9AJ7_RUAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/7PG5PCmUz_QAAAAd/tenor.gif</link>
   </command>
 
+  <command name="meow" verb="meows" description=":3" solo="true">
+    <link>https://c.tenor.com/CuXFvPNjHp0AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/U9HWxXdvHs0AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/1Po5rIThXfQAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/hSGsle0BmwAAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/rI2Rw28t1r8AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/wD3oGRBZEZEAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/AzkiXpBF6WwAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/iFw5XFkLKLsAAAAC/tenor.gif</link>
+    <link>https://c.tenor.com/z4_2skkBfqYAAAAd/tenor.gif</link>
+  </command>
+  
   <command name="sleep" verb="is sleeping. Everyone hush!" description="eepy (_ _ ).zZ" solo="true">
     <link>https://c.tenor.com/qVf6M_Ge26gAAAAd/tenor.gif</link>
     <link>https://c.tenor.com/jfwf7xpv5p0AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/ha0dRHRder8AAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/qlxdd9DVMHUAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/eKNmNbGFJcgAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/d9AcU5UmEdoAAAAd/tenor.gif</link>
+    <link>https://c.tenor.com/UDBZFppJqk8AAAAd/tenor.gif</link>
   </command>
   
 </commands>
