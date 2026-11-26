@@ -28,7 +28,7 @@ User=<Change this!>
 WorkingDirectory=<Change this!>
 Environment=DISCORD_TOKEN=<Change this!>
 Environment=COMMANDS_URL=https://raw.githubusercontent.com/duckofdisorder/sunny-bot/main/commands.xml
-# Environment=GITHUB_TOKEN=only-needed-for-a-private-repo
+# Environment=GITHUB_TOKEN=<Only needed for a private repo!>
 # Environment=GUILD_ID=<Set if using for a private server!>
 ExecStart=/usr/bin/python3 <Your working directory goes here!>/bot.py
 Restart=on-failure

@@ -12,8 +12,11 @@ import discord
 from discord import app_commands
 from discord.ext import tasks
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# I strongly suggest not editing this file for auth tokens.
+# Instead, set the following environment variables:
 TOKEN =         os.environ.get("DISCORD_TOKEN")
-BASE_DIR =      os.path.dirname(os.path.abspath(__file__))
 LOG_PATH =      os.environ.get("LOG_FILE", os.path.join(BASE_DIR, "bot.log"))
 XML_PATH =      os.environ.get("COMMANDS_XML", os.path.join(BASE_DIR, "commands.xml"))
 GUILD_ID =      os.environ.get("GUILD_ID")
@@ -21,7 +24,7 @@ COMMANDS_URL =  os.environ.get("COMMANDS_URL", "").strip()
 GITHUB_TOKEN =  os.environ.get("GITHUB_TOKEN", "").strip()
 RELOAD_MINUTES = float(os.environ.get("RELOAD_MINUTES", "5"))
 
-# refuse anything bigger than 1 MB
+# Increase to not refuse XMLs bigger than 1 MB
 MAX_XML_BYTES = 1024 * 1024  
 
 # Discord's rule for slash-command names
